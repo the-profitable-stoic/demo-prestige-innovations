@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Prestige Innovations",
+    "phone": "+14058869101",
+    "category": "carpenter",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City's Carpentry Experts",
+      "heroSubline": "Craftsmanship you can trust, built for Oklahoma's unique climate. We deliver quality carpentry solutions across the metro area.",
+      "aboutTitle": "Crafting Oklahoma City, One Project at a Time",
+      "aboutText": [
+        "Prestige Innovations began with a simple goal: to provide exceptional carpentry services tailored to the needs of Oklahoma City homeowners and businesses. Founded over a decade ago, we've grown from a small team to a trusted name in the local construction industry.",
+        "Our approach is rooted in integrity, precision, and a deep understanding of our clients' visions. We believe in clear communication, meticulous planning, and unwavering commitment to quality craftsmanship. From initial consultation to final touches, we prioritize your satisfaction.",
+        "We're proud to be a part of the Oklahoma City community, and we're committed to giving back. We actively support local initiatives and strive to create lasting relationships with our clients and neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Oklahoma City's unique climate and housing styles, ensuring durable and beautiful results."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Our skilled carpenters are dedicated to delivering exceptional workmanship and attention to detail on every project."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "We keep you informed every step of the way, providing clear communication and honest advice."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We are committed to completing projects on time and within budget, exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and experience the Prestige Innovations difference. Call us now to discuss your carpentry needs."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted cabinetry designed to your exact specifications.",
+        "description": "Transform your kitchen, bathroom, or any room with custom cabinetry built to perfectly fit your space and style. At Prestige Innovations, we specialize in creating functional and beautiful storage solutions that enhance the value and appeal of your home. We work with a variety of materials, including hardwoods, softwoods, and laminates, to match your aesthetic preferences and budget. \n\nOur design process involves a thorough consultation to understand your needs and preferences. We then create detailed plans and 3D renderings to visualize the finished product. Our skilled carpenters meticulously craft each cabinet, ensuring precise measurements, smooth finishes, and durable construction. We handle everything from installation to hardware selection, providing a seamless and stress-free experience. \n\nWhether you're looking for modern, traditional, or rustic cabinetry, we can bring your vision to life. Our custom cabinetry is designed to withstand the test of time and Oklahoma's climate, adding lasting value to your home.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and create a custom design.",
+          "Step 2: Material Selection – Choose from a variety of high-quality materials.",
+          "Step 3: Crafting and Construction – Our skilled carpenters build your cabinetry with precision.",
+          "Step 4: Installation – We ensure a perfect fit and finish in your home."
+        ],
+        "benefits": [
+          "Maximize storage space",
+          "Enhance the aesthetic appeal of your home",
+          "Increase property value",
+          "Create a personalized living space"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for custom cabinetry?",
+            "answer": "We offer a wide range of materials, including hardwoods, softwoods, laminates, and veneers. We can help you choose the best material for your budget and design preferences."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline depends on the complexity of the project and the materials chosen. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer installation services?",
+            "answer": "Yes, we provide complete installation services to ensure a perfect fit and finish. Our experienced installers will handle every detail with care and precision."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction",
+        "name": "Deck Construction & Repair",
+        "shortDescription": "Build the perfect outdoor living space with our expert deck construction and repair services.",
+        "description": "Extend your living space outdoors with a custom-built deck from Prestige Innovations. We specialize in designing and constructing decks that are not only beautiful but also durable and weather-resistant, perfect for Oklahoma's climate. From classic wood decks to low-maintenance composite decks, we offer a variety of options to suit your style and budget. We handle every aspect of the project, from initial design and permitting to final construction and finishing. \n\nOur team is experienced in working with a variety of materials, including pressure-treated lumber, cedar, redwood, and composite decking. We use only high-quality materials and proven construction techniques to ensure that your deck will withstand the elements and provide years of enjoyment. We also offer deck repair and maintenance services to keep your existing deck in top condition. Whether you need to replace damaged boards, repair railings, or refinish the surface, we can help. \n\nWe understand the importance of safety and building codes, and we ensure that all our decks are built to meet or exceed local regulations. We also offer a variety of customization options, such as built-in seating, pergolas, and lighting, to create the perfect outdoor oasis for your home.",
+        "process": [
+          "Step 1: Site Assessment and Design – We evaluate your property and create a customized deck design.",
+          "Step 2: Material Selection – Choose from a variety of decking materials and finishes.",
+          "Step 3: Construction – Our skilled carpenters build your deck with precision and care.",
+          "Step 4: Finishing Touches – We add the final details to enhance the beauty and functionality of your deck."
+        ],
+        "benefits": [
+          "Enhance your outdoor living space",
+          "Increase property value",
+          "Create a space for entertaining and relaxation",
+          "Enjoy the beauty of nature"
+        ],
+        "faq": [
+          {
+            "question": "What types of decking materials do you offer?",
+            "answer": "We offer a variety of decking materials, including pressure-treated lumber, cedar, redwood, and composite decking. Each material has its own unique advantages and disadvantages."
+          },
+          {
+            "question": "How long does it take to build a deck?",
+            "answer": "The timeline depends on the size and complexity of the deck. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer deck repair services?",
+            "answer": "Yes, we offer deck repair and maintenance services to keep your existing deck in top condition. We can repair damaged boards, railings, and stairs."
+          }
+        ]
+      },
+      {
+        "slug": "fence-installation",
+        "name": "Fence Installation & Repair",
+        "shortDescription": "Protect your property and enhance its curb appeal with our professional fence services.",
+        "description": "Secure your property and enhance its aesthetic appeal with a custom fence from Prestige Innovations. We specialize in designing and installing fences that provide security, privacy, and beauty to your home or business. We offer a variety of fencing options, including wood, vinyl, chain-link, and ornamental iron, to suit your style and budget. Our experienced team will work with you to choose the right fence for your needs and ensure a professional installation. \n\nWe understand the importance of durability and weather resistance, especially in Oklahoma's climate. That's why we use only high-quality materials and proven construction techniques to ensure that your fence will withstand the elements and provide years of reliable service. We also offer fence repair and maintenance services to keep your existing fence in top condition. Whether you need to repair damaged sections, replace posts, or refinish the surface, we can help. \n\nWe handle all aspects of the project, from initial consultation and permitting to final installation and finishing. We also offer a variety of customization options, such as decorative posts, gates, and hardware, to create a fence that reflects your personal style.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and create a custom fence design.",
+          "Step 2: Material Selection – Choose from a variety of fencing materials and styles.",
+          "Step 3: Installation – Our skilled installers build your fence with precision and care.",
+          "Step 4: Finishing Touches – We add the final details to enhance the beauty and functionality of your fence."
+        ],
+        "benefits": [
+          "Enhance property security",
+          "Increase privacy",
+          "Improve curb appeal",
+          "Define property boundaries"
+        ],
+        "faq": [
+          {
+            "question": "What types of fencing materials do you offer?",
+            "answer": "We offer a variety of fencing materials, including wood, vinyl, chain-link, and ornamental iron. Each material has its own unique advantages and disadvantages."
+          },
+          {
+            "question": "How long does it take to install a fence?",
+            "answer": "The timeline depends on the size and complexity of the fence. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer fence repair services?",
+            "answer": "Yes, we offer fence repair and maintenance services to keep your existing fence in top condition. We can repair damaged sections, replace posts, and refinish the surface."
+          }
+        ]
+      },
+      {
+        "slug": "trim-and-molding",
+        "name": "Trim and Molding Installation",
+        "shortDescription": "Add elegance and detail to your home with our professional trim and molding services.",
+        "description": "Elevate the look of your home with expertly installed trim and molding from Prestige Innovations. We specialize in adding architectural details that enhance the beauty and value of your space. From crown molding and baseboards to wainscoting and door casings, we offer a variety of trim and molding options to suit your style and budget. Our skilled carpenters meticulously install each piece, ensuring precise cuts, seamless joints, and a flawless finish. \n\nWe work with a variety of materials, including wood, MDF, and PVC, to match your aesthetic preferences and budget. We also offer custom trim and molding services to create unique designs that reflect your personal style. Our team will work with you to choose the right trim and molding for your home and ensure a professional installation. \n\nWe understand the importance of attention to detail, and we take pride in our craftsmanship. Whether you're renovating a single room or updating your entire home, we can help you achieve the look you desire. We handle all aspects of the project, from initial consultation and material selection to final installation and finishing.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and create a custom trim and molding plan.",
+          "Step 2: Material Selection – Choose from a variety of trim and molding materials and styles.",
+          "Step 3: Installation – Our skilled carpenters install your trim and molding with precision and care.",
+          "Step 4: Finishing Touches – We add the final details to enhance the beauty of your home."
+        ],
+        "benefits": [
+          "Enhance the aesthetic appeal of your home",
+          "Add architectural detail",
+          "Increase property value",
+          "Create a personalized living space"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you offer?",
+            "answer": "We offer a variety of trim and molding options, including crown molding, baseboards, wainscoting, door casings, and window trim. We can also create custom trim and molding designs."
+          },
+          {
+            "question": "How long does it take to install trim and molding?",
+            "answer": "The timeline depends on the size and complexity of the project. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer painting and finishing services?",
+            "answer": "Yes, we offer painting and finishing services to complete your trim and molding project. We can match any paint color and ensure a flawless finish."
+          }
+        ]
+      },
+      {
+        "slug": "framing-services",
+        "name": "Framing Services",
+        "shortDescription": "Expert framing services for new construction and renovations, ensuring structural integrity.",
+        "description": "Prestige Innovations provides expert framing services for new construction and renovation projects throughout the Oklahoma City metro. We understand that the frame is the backbone of any structure, and we are committed to providing precise, durable, and code-compliant framing that ensures the long-term stability of your building. Our team has extensive experience in both residential and commercial framing, working with a variety of materials and designs. \n\nWe handle all aspects of the framing process, from initial planning and layout to final inspection and approval. We use only high-quality lumber and proven construction techniques to ensure that your frame is built to last. We also work closely with architects, engineers, and other contractors to ensure that your project is completed on time and within budget. \n\nWhether you're building a new home, adding an addition, or renovating an existing structure, you can trust Prestige Innovations to provide reliable and professional framing services. We are committed to exceeding your expectations and delivering a frame that will stand the test of time, even against Oklahoma's challenging weather conditions.",
+        "process": [
+          "Step 1: Blueprint Review – We carefully review the architectural plans and specifications.",
+          "Step 2: Material Procurement – We source high-quality lumber and framing materials.",
+          "Step 3: Framing Construction – Our skilled carpenters build the frame with precision and care.",
+          "Step 4: Inspection and Approval – We ensure that the frame meets all building codes and regulations."
+        ],
+        "benefits": [
+          "Ensure structural integrity",
+          "Provide a solid foundation for your building",
+          "Meet building codes and regulations",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of framing services do you offer?",
+            "answer": "We offer a variety of framing services, including residential framing, commercial framing, and custom framing. We can frame walls, roofs, floors, and more."
+          },
+          {
+            "question": "How long does it take to frame a house?",
+            "answer": "The timeline depends on the size and complexity of the house. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer framing repair services?",
+            "answer": "Yes, we offer framing repair services to fix damaged or deteriorated framing. We can repair walls, roofs, and floors."
+          }
+        ]
+      },
+      {
+        "slug": "door-and-window-installation",
+        "name": "Door and Window Installation",
+        "shortDescription": "Upgrade your home with energy-efficient door and window installations.",
+        "description": "Enhance the comfort, security, and energy efficiency of your home with professional door and window installation services from Prestige Innovations. We specialize in installing high-quality doors and windows that not only look beautiful but also provide superior insulation and weather protection, crucial in Oklahoma's climate. We offer a variety of styles and materials to suit your aesthetic preferences and budget. \n\nOur experienced installers will ensure a perfect fit and finish, minimizing drafts and maximizing energy savings. We handle all aspects of the project, from removing old doors and windows to installing new ones and sealing them properly. We also offer a variety of customization options, such as decorative glass, hardware, and trim, to create a look that reflects your personal style. \n\nWhether you're replacing old, drafty doors and windows or installing new ones in a new construction project, you can trust Prestige Innovations to provide reliable and professional service. We are committed to exceeding your expectations and delivering a home that is both beautiful and energy-efficient.",
+        "process": [
+          "Step 1: Consultation and Measurement – We assess your needs and take precise measurements.",
+          "Step 2: Product Selection – Choose from a variety of doors and windows styles and materials.",
+          "Step 3: Installation – Our skilled installers install your doors and windows with precision and care.",
+          "Step 4: Finishing Touches – We add the final details to ensure a perfect fit and finish."
+        ],
+        "benefits": [
+          "Improve energy efficiency",
+          "Enhance home security",
+          "Increase property value",
+          "Improve curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors and windows do you offer?",
+            "answer": "We offer a variety of doors and windows, including wood, vinyl, fiberglass, and aluminum. We can also install custom doors and windows."
+          },
+          {
+            "question": "How long does it take to install a door or window?",
+            "answer": "The timeline depends on the size and complexity of the project. We will provide you with a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer door and window repair services?",
+            "answer": "Yes, we offer door and window repair services to fix damaged or deteriorated doors and windows. We can repair frames, glass, and hardware."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Prestige Innovations is proud to offer expert carpentry services to the residents and businesses of Oklahoma City. From custom cabinetry and intricate trim work to durable decks and reliable repairs, our skilled craftsmen bring precision and artistry to every project. We understand the unique architectural styles found throughout OKC, from the historic homes in Heritage Hills to the modern designs downtown, and tailor our services to complement each property's individual character.\n\nWhether you're looking to enhance your home's curb appeal, create a functional and beautiful kitchen, or need a reliable carpenter for a commercial project, Prestige Innovations is committed to delivering exceptional results. We prioritize clear communication, meticulous attention to detail, and a dedication to using only the highest quality materials. Our goal is to exceed your expectations and provide you with carpentry solutions that stand the test of time. We are fully licensed and insured for your peace of mind.",
+        "localContext": "Oklahoma City, the capital of Oklahoma, is a vibrant metropolis known for its thriving arts scene, delicious cuisine, and friendly atmosphere. The city boasts a growing economy and a diverse population, making it a hub for innovation and culture.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Prestige Innovations extends its premium carpentry services to the beautiful city of Edmond, Oklahoma. We cater to the diverse needs of Edmond homeowners and businesses, offering everything from custom-built furniture and elegant crown molding to sturdy fences and reliable deck construction. Our team is dedicated to providing superior craftsmanship and exceptional customer service.\n\nWe understand the importance of quality and durability, especially when it comes to Edmond's climate. That's why we use only the finest materials and employ proven techniques to ensure that our carpentry work stands the test of time. Whether you're renovating your home, building a new commercial space, or simply need a skilled carpenter for a small repair, Prestige Innovations is here to help.",
+        "localContext": "Edmond is a thriving city known for its excellent schools, beautiful parks, and family-friendly atmosphere. It offers a blend of small-town charm and big-city amenities, making it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Prestige Innovations proudly serves the residents and businesses of Moore, Oklahoma, with top-notch carpentry services. We offer a comprehensive range of solutions, including custom cabinetry, trim work, framing, and deck construction. Our team is committed to delivering exceptional quality and unparalleled customer satisfaction.\n\nWe understand the specific needs of Moore residents, particularly when it comes to building and maintaining homes in this area. That's why we use durable materials and construction techniques designed to withstand Oklahoma's weather conditions. Whether you're looking to improve your home's value, enhance its functionality, or simply need a reliable carpenter for a repair, Prestige Innovations is the right choice.",
+        "localContext": "Moore is a resilient and close-knit community located just south of Oklahoma City. Known for its strong sense of community and family-friendly environment, Moore offers a welcoming atmosphere for residents and visitors alike.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Prestige Innovations is pleased to offer its expert carpentry services to the city of Norman, Oklahoma. Home to the University of Oklahoma, Norman boasts a vibrant community with diverse needs. We specialize in custom carpentry solutions tailored to both residential and commercial properties, including everything from built-in bookshelves and intricate trim work to durable decks and reliable repairs.\n\nWe recognize the importance of quality craftsmanship and attention to detail. Our team is dedicated to exceeding your expectations, using only the finest materials and proven techniques. Whether you're a homeowner looking to enhance your space or a business owner seeking reliable carpentry services, Prestige Innovations is committed to providing exceptional results.",
+        "localContext": "Norman is a dynamic city known for its vibrant arts and culture scene, excellent educational opportunities, and strong sense of community. As the home of the University of Oklahoma, Norman offers a lively atmosphere and a diverse population.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Prestige Innovations is dedicated to providing Yukon, Oklahoma, with high-quality carpentry services. We understand the unique needs of Yukon homeowners and businesses, offering a wide range of services including custom cabinetry, trim work, deck construction, and general repairs. Our skilled craftsmen are committed to delivering exceptional results that exceed your expectations.\n\nWe prioritize using durable materials and proven techniques to ensure that our carpentry work stands the test of time. Whether you're renovating your home, building a new commercial space, or simply need a reliable carpenter for a small project, Prestige Innovations is here to help. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Yukon is a growing city located just west of Oklahoma City, known for its strong sense of community and family-friendly atmosphere. It offers a blend of small-town charm and convenient access to big-city amenities.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Prestige Innovations proudly serves the city of Mustang, Oklahoma, offering a comprehensive range of carpentry services to meet the diverse needs of our clients. From custom-built furniture and elegant trim work to sturdy fences and reliable deck repairs, our skilled craftsmen bring expertise and artistry to every project. We are committed to providing exceptional quality and unparalleled customer satisfaction.\n\nWe understand the importance of using durable materials and proven techniques, especially when it comes to Mustang's climate. That's why we prioritize quality and attention to detail in every project we undertake. Whether you're renovating your home, building a new structure, or simply need a skilled carpenter for a small repair, Prestige Innovations is here to help.",
+        "localContext": "Mustang is a rapidly growing city located southwest of Oklahoma City, known for its excellent schools, family-friendly environment, and strong sense of community. It offers a peaceful suburban lifestyle with convenient access to urban amenities.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Newcastle",
+        "slug": "newcastle-ok",
+        "state": "OK",
+        "content": "Prestige Innovations provides expert carpentry services to the residents and businesses of Newcastle, Oklahoma. We offer a wide range of solutions, including custom cabinetry, trim work, framing, and deck construction. Our team is committed to delivering exceptional quality and unparalleled customer satisfaction.\n\nWe understand the importance of quality and durability, especially when it comes to Newcastle's climate. That's why we use only the finest materials and employ proven techniques to ensure that our carpentry work stands the test of time. Whether you're renovating your home, building a new commercial space, or simply need a skilled carpenter for a small repair, Prestige Innovations is here to help. We are fully licensed and insured for your peace of mind.",
+        "localContext": "Newcastle is a growing city located south of Oklahoma City, offering a blend of rural charm and convenient access to urban amenities. Known for its friendly atmosphere and strong sense of community, Newcastle provides a welcoming environment for residents and visitors alike.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Blanchard"
+        ]
+      },
+      {
+        "city": "Piedmont",
+        "slug": "piedmont-ok",
+        "state": "OK",
+        "content": "Prestige Innovations is pleased to offer its professional carpentry services to the community of Piedmont, Oklahoma. We cater to the diverse needs of Piedmont homeowners and businesses, offering everything from custom-built furniture and elegant crown molding to sturdy fences and reliable deck construction. Our team is dedicated to providing superior craftsmanship and exceptional customer service.\n\nWe understand the importance of quality and durability, especially when it comes to Piedmont's climate. That's why we use only the finest materials and employ proven techniques to ensure that our carpentry work stands the test of time. Whether you're renovating your home, building a new commercial space, or simply need a skilled carpenter for a small repair, Prestige Innovations is here to help.",
+        "localContext": "Piedmont is a growing city located northwest of Oklahoma City, known for its excellent schools, peaceful atmosphere, and strong sense of community. It offers a desirable blend of small-town charm and convenient access to urban amenities.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Edmond"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Prestige Innovations built the most beautiful custom cabinets for my kitchen. The quality of the wood and the craftsmanship are outstanding. They were professional, communicative, and finished the project on time. My kitchen is now the envy of the neighborhood!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after years of Oklahoma weather. Prestige Innovations repaired the damaged boards and reinforced the structure. They did a great job, and now our deck is safe and ready for summer BBQs.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Fence Installation",
+        "text": "We needed a new fence to keep our dogs safe. Prestige Innovations installed a beautiful wood fence that not only provides security but also enhances the look of our yard. The team was professional, efficient, and paid attention to every detail.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Trim and Molding Installation",
+        "text": "Prestige Innovations transformed our living room with elegant trim and molding. The craftsmanship is impeccable, and the attention to detail is remarkable. They were a pleasure to work with, and we highly recommend them.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "I needed a new front door installed, and Prestige Innovations did a fantastic job. The door looks great, and the installation was quick and efficient. The team was professional and courteous, and I would definitely use them again.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Framing Services",
+        "text": "Prestige Innovations handled the framing for our home addition, and we were extremely impressed with their professionalism and expertise. The frame is solid, square, and built to last. They were a pleasure to work with and we plan to use them again on our next project.",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Prestige Innovations | OKC Carpenter",
+        "description": "Trusted carpentry services in Oklahoma City. Custom cabinets, decks, fences, trim, and more. Call now for a free quote!"
+      },
+      "about": {
+        "title": "About Us | Prestige Innovations OKC",
+        "description": "Learn about Prestige Innovations, Oklahoma City's leading carpentry experts. Quality craftsmanship, local expertise, and reliable service."
+      },
+      "services": {
+        "title": "Carpentry Services | Prestige Innovations",
+        "description": "Explore our carpentry services in Oklahoma City. Custom cabinetry, deck construction, fence installation, trim work, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Prestige Innovations OKC",
+        "description": "Contact Prestige Innovations for your carpentry needs in Oklahoma City. Get a free quote and discuss your project today."
+      },
+      "reviews": {
+        "title": "Reviews | Prestige Innovations OKC",
+        "description": "See what our customers are saying about Prestige Innovations. Read testimonials and see our commitment to quality carpentry in Oklahoma City."
+      },
+      "service-areas": {
+        "title": "Service Areas | Prestige Innovations OKC",
+        "description": "Prestige Innovations provides carpentry services throughout the Oklahoma City metro area. Find out if we serve your neighborhood today."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "deck-construction": "/images/service-deck-construction.webp",
+      "fence-installation": "/images/service-fence-installation.webp",
+      "trim-and-molding": "/images/service-trim-and-molding.webp",
+      "framing-services": "/images/service-framing-services.webp",
+      "door-and-window-installation": "/images/service-door-and-window-installation.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction": {
+        "src": "/images/service-deck-construction.webp",
+        "srcset": "/images/service-deck-construction-400w.webp 400w, /images/service-deck-construction-800w.webp 800w, /images/service-deck-construction-1200w.webp 1200w, /images/service-deck-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-installation": {
+        "src": "/images/service-fence-installation.webp",
+        "srcset": "/images/service-fence-installation-400w.webp 400w, /images/service-fence-installation-800w.webp 800w, /images/service-fence-installation-1200w.webp 1200w, /images/service-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-and-molding": {
+        "src": "/images/service-trim-and-molding.webp",
+        "srcset": "/images/service-trim-and-molding-400w.webp 400w, /images/service-trim-and-molding-800w.webp 800w, /images/service-trim-and-molding-1200w.webp 1200w, /images/service-trim-and-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "framing-services": {
+        "src": "/images/service-framing-services.webp",
+        "srcset": "/images/service-framing-services-400w.webp 400w, /images/service-framing-services-800w.webp 800w, /images/service-framing-services-1200w.webp 1200w, /images/service-framing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-and-window-installation": {
+        "src": "/images/service-door-and-window-installation.webp",
+        "srcset": "/images/service-door-and-window-installation-400w.webp 400w, /images/service-door-and-window-installation-800w.webp 800w, /images/service-door-and-window-installation-1200w.webp 1200w, /images/service-door-and-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
